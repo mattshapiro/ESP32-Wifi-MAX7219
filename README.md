@@ -1,0 +1,1 @@
+Send messages to a MAX7219 LED display over wifi via the WifiSerial library & access point capabilities of the ESP32 development board. Connect to the board's WiFi access point (ssid: Matts-ESP32 / pwd: 0987654321), note the IP address scrolling on the display and use it to connect to the "XXX.XXX.XXX.XXX/webserial" (where XXX.XXX.XXX.XXX is the displayed IP addresss)./ 
